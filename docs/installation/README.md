@@ -13,4 +13,7 @@ Systemctl setup
 
 
 
-
+1. install_script.sh,
+2. odoo-install-11.0-extra_python-package.sh
+3. odoo-install-11.0-tools.sh,
+4. odoo-install-addons-folder.sh, Addons folders according our concept
