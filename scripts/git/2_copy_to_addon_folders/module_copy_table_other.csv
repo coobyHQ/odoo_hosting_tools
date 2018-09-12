@@ -1,0 +1,25 @@
+Source,Destination
+it-projects/misc-addons,free1 
+it-projects/project,free1 
+it-projects/website-addons,free1 
+it-projects/mail-addons,free1
+it-projects/access-addons,free1
+it-projects/odoo-saas-tools,free1
+# SythilTech
+cooby/Odoo,free1
+cooby/agent_portal/marketplace-11,paid
+cooby/agent_portal,ap
+cooby/odoo-saas-tools,free1
+other/app-odoo,free1
+other/odoo-eam,free1
+other/apps,free1
+# Muk-IT DMS Document Management
+other/muk_base,muk
+other/muk_web,muk
+other/muk_dms,muk
+other/muk_misc,muk
+other/muk_website,muk
+#Scrum scrummer
+other/scrummer,free2
+# themes
+# Openworx/backend_theme,themes

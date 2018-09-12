@@ -1,0 +1,13 @@
+#!/bin/bash
+################################################################################
+# Script for automatic Installing of requirements through sub folders
+# added: Lucas Huber,  Author:
+################################################################################
+
+find . -mindepth 1 -maxdepth 1 -type d -print -exec sudo -H pip3 install -r requirements.txt \;
+
+#  find . searches the current directory
+#  -type d to find directories, not files
+#  -maxdepth 1 for a maximum depth of one sub-directory
+#  -exec {} \; runs a custom command for every find
+#  THIS IS NOT YET WORKING

@@ -1,0 +1,12 @@
+[Unit]
+Description=Odoo Maintenance instance
+Documentation=http://www.odoo.com/
+
+[Service]
+# Ubuntu/Debian convention:
+Type=simple
+User=odoo
+ExecStart=/opt/odoo/odoo-server11/odoo-bin -c /etc/odoo/odoo-server11-m.conf
+
+[Install]
+WantedBy=default.target
