@@ -8,10 +8,10 @@
 
 mkdir /opt/odoo/custom/addons
 cd /opt/odoo/custom/addons
-git clone --depth=5 https://github.com/coobyhq/addons/free1.git
-git clone --depth=5 https://github.com/coobyhq/addons/free2.git
-git clone --depth=5 https://github.com/coobyhq/addons/muk.git
-git clone --depth=5 https://github.com/coobyhq/addons/themes.git
-git clone --depth=5 https://github.com/coobyhq/addons/docs.git
-git clone --depth=5 https://github.com/coobyhq/addons/not_used.git
-git clone --depth=5 https://github.com/coobyhq/addons/test.git
+git clone --depth=5 https://github.com/coobyHQ/addons/free1.git
+git clone --depth=5 https://github.com/coobyHQ/addons/free2.git
+git clone --depth=5 https://github.com/coobyHQ/addons/muk.git
+git clone --depth=5 https://github.com/coobyHQ/addons/themes.git
+git clone --depth=5 https://github.com/coobyHQ/addons/docs.git
+git clone --depth=5 https://github.com/coobyHQ/addons/not_used.git
+git clone --depth=5 https://github.com/coobyHQ/addons/test.git
