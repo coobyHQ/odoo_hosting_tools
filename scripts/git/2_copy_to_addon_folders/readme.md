@@ -24,7 +24,7 @@ The basic update workflow on a master server should happen according the followi
 
 And there are several scripts to automate the update of the addons.
 
-The master server for the addons handling is our Staging server 159.69.19.208.
+The master server for the addons handling is our Staging server xx.xx.xx.xx.
 
 ### Master Server module update
 Master server module repositories can be updated according the workflow.
@@ -34,7 +34,7 @@ Master server module repositories can be updated according the workflow.
     2 Do the same for other base repos on _repos/other for instance.
     3 Run ./module_copy_over_list_oca.sh
     4 Run ./module_copy_over_list_other.sh
-    5 Check if the server is still running. 
+    5 Check if the Odoo instances er still running and the Odoo log files. 
     6 Run ./module_new_copy_over_list_oca.sh
     7 Run ./module_new_copy_over_list_other.sh
     8 Do a restart of the maintenance instance.
